@@ -1,0 +1,798 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Partridges observations for the year 1692. Or, An account of divers remarkable things which shall happen in most parts of Europe each month, but particularly in France and Flanders, &amp;c. To which is added John Gadbury's verses about the Prince of Wales, in his Almanack 1689, travesty'd.</title>
+            <author>Partridge, John, 1644-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04922</idno>
+            <idno type="STC">Wing P624B</idno>
+            <idno type="STC">ESTC R181497</idno>
+            <idno type="EEBO-CITATION">52528871</idno>
+            <idno type="OCLC">ocm 52528871</idno>
+            <idno type="VID">178854</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178854)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2773:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Partridges observations for the year 1692. Or, An account of divers remarkable things which shall happen in most parts of Europe each month, but particularly in France and Flanders, &amp;c. To which is added John Gadbury's verses about the Prince of Wales, in his Almanack 1689, travesty'd.</title>
+                  <author>Partridge, John, 1644-1715.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Re-printed in the year, 1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Europe --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178854:1" rendition="simple:additions"/>
+            <p>Partridges OBSERVATIONS For the Year 1692. OR, AN ACCOUNT OF Divers Remarkable Things Which ſhall happen in moſt Parts of EUROPE Each Month.</p>
+            <p>But particularly in <hi>France</hi> and <hi>Flanders,</hi> &amp;c.</p>
+            <p>To which is added <hi>John Gadbury</hi>'s Verſes about the <hi>Prince of Wales,</hi> in his Almanack 1689, Traveſty'd.</p>
+            <p>
+               <hi>Edinburgh,</hi> Re printed in the Year 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:178854:2"/>
+            <pb facs="tcp:178854:2"/>
+            <head>The Introduction:</head>
+            <lg>
+               <l>AN Ancient <hi>Hermit</hi> by a craggy Hill,</l>
+               <l>By Natur's help, and art, had form'd a Cell.</l>
+               <l>Where he did live from Rage and Madneſs free.</l>
+               <l>And did obſerve that curſe, <hi>Mans Luxury:</hi>
+               </l>
+               <l>He ſpent his days in Peace conient, and Eaſe,</l>
+               <l>And long before foreſaw poor <hi>Englands</hi> caſe.</l>
+               <l>He Imil'd to ſee <hi>French Apes</hi> fill <hi>Albions Hall.</hi>
+               </l>
+               <l>And make the <hi>Engliſh Lyon</hi> their <hi>Jack call.</hi>
+               </l>
+               <l>And how the <hi>Gallick Circe</hi> did prevail,</l>
+               <l>How well ſhe <hi>bow'd,</hi> and <hi>crign d,</hi> &amp; <hi>wag'd</hi> her <hi>Tail.</hi>
+               </l>
+               <l>How <hi>ſure</hi> ſhe dealt, how Rich by a light gain,</l>
+               <l>How well ſhe <hi>rid us,</hi> and <hi>was rid</hi> again.</l>
+               <l>He laught to ſee <hi>Towns ſold,</hi> and <hi>Faith betray'd;</hi>
+               </l>
+               <l>
+                  <hi>Honeſty ſneak, Hypocriſy</hi> obey'd.</l>
+               <l>To ſee the great Ones how their manner was,</l>
+               <l>Roar againſt <hi>Rome,</hi> and yet they went to Maſs.</l>
+               <l>But griev'd to ſee how our Religion ſtood;</l>
+               <l>And Faiths pretence by Knaves was <hi>built in Blood.</hi>
+               </l>
+               <l>How they proceeded, how they laid their <hi>Crimes</hi>
+               </l>
+               <l>To <hi>Excommunications, Jails,</hi> and <hi>Fines;</hi>
+               </l>
+               <l>From ſuch a Faith, and Men, Lord ſet us free,</l>
+               <l>Whoſe Doctrine gives a <hi>murd'ring Deſtiny!</hi>
+               </l>
+               <l>He piti'd <hi>England</hi>'s fate, how tamely ſhe,</l>
+               <l>Parted with <hi>Charters, Laws,</hi> and <hi>Liberty.</hi>
+               </l>
+               <l>Obſerv'd their <hi>Paſſive Cant,</hi> their Noiſe, and Tools.</l>
+               <l>How with Church notions they betray'd the Fools,</l>
+               <l>He wept to ſee the Murd'ring <hi>Trade</hi> and <hi>Crew;</hi>
+               </l>
+               <l>
+                  <hi>Sheriffs</hi> made, and <hi>Juries</hi> packt, they knew would do.</l>
+               <l>Crimes form'd and forg'd, &amp; when they wanted more</l>
+               <l>A <hi>ſwinging ſwearing Tool</hi> they had in ſtore;</l>
+               <l>Or elſe ſome <hi>Inuendo,</hi> then in force,</l>
+               <l>By which <hi>thoſe Judges</hi> with their Wiſe diſcourſe;</l>
+               <l>If <hi>Brick bat</hi> was but nam'd, 'twas prov'd a <hi>Horſe.</hi>
+               </l>
+               <l>Thus <hi>Whipe</hi> and <hi>Halter</hi> mov'd, as <hi>George</hi> gave Laws</l>
+               <l>That <hi>Butcher-General</hi> to the <hi>Popiſh</hi> Cauſe,</l>
+               <l>Imagin'd <hi>Crimes, Crimes</hi> that were never done,</l>
+               <l>Let Collonel <hi>Sydney's</hi> Murder ſtand for one,</l>
+               <l>Where <hi>Inuendo</hi> did our Work alone.</l>
+               <l>By theſe, and ſuch like means was all deſtroy'd;</l>
+               <l>By theſe, <hi>baſe Actions,</hi> and <hi>worſe</hi> were imployed.</l>
+            </lg>
+         </div>
+         <div type="text">
+            <pb facs="tcp:178854:3"/>
+            <head>PARTRIDGES Obſervations For the Year 1692.</head>
+            <div n="January" type="observations">
+               <head>Obſervations upon <hi>January.</hi>
+               </head>
+               <sp>
+                  <speaker>Gadbury.</speaker>
+                  <lg>
+                     <l>Come <hi>mighty Muſe!</hi> Aſſiſt me once agen,</l>
+                     <l>Touch thou my <hi>Cranium,</hi> and inſpire my Pen;</l>
+                     <l>And let the <hi>Black mouth'd</hi> Tribe again reflect,</l>
+                     <l>Tho I don't <hi>Prophecy</hi> I may <hi>Predict.</hi>
+                     </l>
+                     <l>And that it may with Truth and Good be bleſt.</l>
+                     <l>
+                        <hi>Heaven</hi> guide my hand, let mighty <hi>Jove</hi> aſſiſt,</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Partridge.</speaker>
+                  <lg>
+                     <l>
+                        <hi>All hail,</hi> my Maſters! here is muckle do,</l>
+                     <l>A year of Wonders doſt thou call it <hi>John.</hi>
+                     </l>
+                     <l>'Twas ſuch a year ſo fatal to your <hi>Crew,</hi>
+                     </l>
+                     <l>It hath not left you Ground to <hi>Anchor</hi> on.</l>
+                     <l>Let <hi>Chains</hi> then be their <hi>Lot,</hi> who humbly crave,</l>
+                     <l>And beg to be a <hi>little Baſtard's Slave.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>It is now juſt a year ſince our <hi>Holy Plot</hi> was diſcovered when <hi>Paſſive Obedience</hi> was turned into <hi>Rebellious Reſiſtance,</hi> and a deſign laid to deſtroy the <hi>bravest Prince</hi> in the World, and this done by thoſe who in their publick Audito<g ref="char:EOLhyphen"/>ries had be-rebell'd all mankind but their own Faction; by thoſe, I ſay, at <hi>whoſe doores</hi> lies all the Blood and miſeries of <hi>Ireland</hi>
+               </p>
+               <p>If we conſider that the Ingreſs was attended with a ☌ of the ☉ and ☿ and a <g ref="char:trine">△</g> of ♃ and the ☉, thoſe things compared with the beginning of this month, ſeems to ſhew us much news diſcourſed of among all People; and eſpecially about Peace, and ſuch Affairs as relate thereunto, as Truces, Ceſſations of Arms, and the like; and do you think there is any thing in it? <hi>Vix Credo.</hi>
+               </p>
+               <p>For ☉ and <g ref="char:Moon">☽</g> are Gadent, and the old plotting Knave ♄ is in ☍ to ♂, from the third and ninth, the houſe of Religon: I hope we have no more holy Plots coming abroad again, and yet I dare ven<g ref="char:EOLhyphen"/>ture a Wager there is ſomething in it, but it will be ſmothered in the Birth: he that plots for the Church plots ſafe.</p>
+               <p>The Councils of <hi>Europs</hi> very huſh</p>
+            </div>
+            <div n="February" type="observations">
+               <pb facs="tcp:178854:3"/>
+               <head>Obſervations on <hi>February.</hi>
+               </head>
+               <sp>
+                  <speaker>Gadbury.</speaker>
+                  <lg>
+                     <l>Of late, Heaven's <hi>Cohorts</hi> did each other greet,</l>
+                     <l>And at their <hi>General Rendevouz</hi> did meet.</l>
+                     <l>
+                        <hi>Mavors</hi> in <hi>Gemini;</hi> there ſtill reſides,</l>
+                     <l>While <hi>Chronos</hi> on his <hi>Half-hors'd Bowman</hi> rides.</l>
+                     <l>Th' Effects lie ſnug and huſh; and then begins,</l>
+                     <l>When <hi>Sol</hi> and <hi>Stilborn</hi> do embrace the <hi>Twins.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Partridge.</speaker>
+                  <lg>
+                     <l>When <hi>Gadbury's Stars</hi> and <hi>Angels</hi> did appear,</l>
+                     <l>The Friends of <hi>Rome</hi> flew ſwiftly through the Air.</l>
+                     <l>From ſome ſmall <hi>Cell</hi> or <hi>Cellar,</hi> as 'tis thought.</l>
+                     <l>The <hi>Reaking Babe</hi> was in a hurry brought.</l>
+                     <l>Immortal <hi>Elf:</hi> how often that did dye,</l>
+                     <l>Its <hi>Real Father</hi> knows no more than I.</l>
+                  </lg>
+               </sp>
+               <p>At the Ingreſs in <hi>December</hi> we find the <g ref="char:Moon">☽</g> void of courſe, but the ☉ is going to the <g ref="char:trine">△</g> of ♃, and on the Cuſp of the Aſcendant in ♉, but the ☉ lately ſeperated from the ☍ of ♂, and the Body of ☿, and this ſo near the Tropick that I fear will ſpoil the Influence of ♃'s <hi>Balſamick Rays,</hi> which indeed tend to peace.</p>
+               <p>But here we find the <g ref="char:Moon">☽</g> going to the ſquare of ♄ and ♂, and toward the end of the month we ſhall ſee the Effects of it in <hi>London</hi> among the New <hi>Non-cons,</hi> and the <hi>murmuring Crew,</hi> and it will be about ſome ſeditious thing in reference to the Government; perhaps meeting to affront the <hi>King</hi> and <hi>Queen,</hi> as they have done before; but I remember when a <hi>Gollows</hi> uſed to be the reward of ſuch things in the two <hi>late pious Reigns;</hi> but the caſe is altered, the Murtherers then are the <hi>Traytors</hi> now.</p>
+               <p>It alſo ſhews ſome ſuddain ſurprize or treachery in <hi>Flanders;</hi> perhaps the <hi>French Tyrant</hi> may go to market about this time to take Towns after his uſual way of fighting without Blood,</p>
+            </div>
+            <div n="March" type="observations">
+               <pb facs="tcp:178854:4"/>
+               <head>Obſervations upon <hi>March.</hi>
+               </head>
+               <sp>
+                  <speaker>Gadbury.</speaker>
+                  <lg>
+                     <l>With full career, <hi>Sol</hi> to the <hi>Ram</hi> doeth hie,</l>
+                     <l>He being there the Judge of Equity;</l>
+                     <l>But ere he doth his <hi>Regal Throne</hi> poſſeſs,</l>
+                     <l>Grim furious <hi>Mars</hi> diſturbs his happineſs,</l>
+                     <l>Hence <hi>Feuds</hi> and <hi>Differences;</hi> hence too, Treach'ry flows</l>
+                     <l>Perfidious <hi>Friends</hi> are worſe then open Foes.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Partridge.</speaker>
+                  <lg>
+                     <l>Who dars call <hi>eighty eight</hi> an empty year,</l>
+                     <l>When things ſo plain in plenty did appear.</l>
+                     <l>It gave a <hi>Prince</hi> by <hi>Miracles</hi> begot,</l>
+                     <l>And <hi>ſmooth fat Prieſt</hi> from foraign nations brought</l>
+                     <l>
+                        <hi>Maſs houſes</hi> publick, did each City grace</l>
+                     <l>The <hi>Regulators;</hi> and <hi>Salisbury Race:</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>At the Lunation now approaching, we find both ☉ and <g ref="char:Moon">☽</g> in exact ſquare to ♂ from ♓ and II. <hi>Lites Rixae, Interfectiones multas in mul<g ref="char:EOLhyphen"/>tis Locis, Mars</hi> is in a human Sign, from whence we uſually find Quarrels and Conten<g ref="char:EOLhyphen"/>tions, as well publick as private, from whence alſo we ſhall hear of <hi>Duels</hi> and <hi>Murders</hi> about this time in divers parts: alſo <hi>Skirmiſhing</hi> by Parties of thoſe Soldiers that guard the Frontiers of <hi>Countries</hi> and <hi>Garriſons.</hi> We may alſo ex<g ref="char:EOLhyphen"/>pect to hear of ſome Cruelty, Murder, or other Villanies committed by the bloody <hi>Rappare<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Papiſts</hi> in <hi>Ireland.</hi> In ſhort, mankind in general are about this time inclin'd to Violence and <hi>Villanies, Roberies,</hi> and <hi>Blood;</hi> as beſides this Lunation, the ſquare of ♄ &amp; ☿, &amp; the ſquare of the ☉ &amp; ♂ ſhew<g ref="char:punc">▪</g>
+               </p>
+               <p>Whatſoever the diſcourſe is about a Peace at this time, will end in words and noiſe, and have no other effect, for I can ſee no real ground to judge any ſuch thing, and beſides, the War hath not travelled its full Journey yet.</p>
+               <p>Much lying news ſpread abroad to the abuſe of the Credulous and this about ſome conſiderable thing as they report.</p>
+            </div>
+            <div n="April" type="observations">
+               <pb facs="tcp:178854:4"/>
+               <head>Obſervations upon <hi>April:</hi>
+               </head>
+               <sp>
+                  <speaker>Gadbury.</speaker>
+                  <lg>
+                     <l>The <hi>Orbs</hi> and <hi>Stars;</hi> how ſtedfaſtly they're hurl'd?</l>
+                     <l>Thoſe <hi>Arks</hi> where <hi>God</hi> hides Judgments for the World;</l>
+                     <l>That ſhake its Pillars; yet themſelves we find.</l>
+                     <l>Beyond the Rage of <hi>Thunder, Storms,</hi> and <hi>Wind.</hi>
+                     </l>
+                     <l>And when the Almighty, through theſe Trumpets calls</l>
+                     <l>Poor tott'ring <hi>Man,</hi> he ſtaggers, and he falls.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Partridge.</speaker>
+                  <lg>
+                     <l>No, no, ſour <hi>Criticks,</hi> we cannot deny.</l>
+                     <l>That <hi>Honeſt Jack</hi> hath learnt to <hi>Cant</hi> and <hi>Lye.</hi>
+                     </l>
+                     <l>That year's ſuppli'd in full witth <hi>Lies</hi> and <hi>Tales,</hi>
+                     </l>
+                     <l>About the Glories of his <hi>Prince</hi> of <hi>Wales.</hi>
+                     </l>
+                     <l>Poor harmleſs Babe! miſcall'd a <hi>Prince</hi> of <hi>Bliſs,</hi>
+                     </l>
+                     <l>Born for his <hi>Mothers Eaſe,</hi> not <hi>Conſciences.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>
+                  <hi>Holland</hi> ſeems active and early in their Pre<g ref="char:EOLhyphen"/>parations for this Summers Affairs; and this as well for Land as Sea ſervice, which is aptly e<g ref="char:EOLhyphen"/>nough ſhewed by ♂'s being in ♋, in ⚹ to ♃, and <g ref="char:Moon">☽</g> applying ♂ in ♋, a <hi>Northern</hi> Sign, with North Latitude, free from all Affliction, and in ⚹ to ☿, Lord of the tenth, ſhews, that the <hi>Armies</hi> of <hi>Europe</hi> are endeavouring to take the Field be<g ref="char:EOLhyphen"/>times, and that the <hi>Princes</hi> of <hi>Europe</hi> are mak<g ref="char:EOLhyphen"/>ing vigorous Preparations for the following <hi>Campain,</hi> and this the rather, becauſe ♂ is alſo Angular in the tenth houſe, and their applying to the Sextile and Parallel of ♃, Lord of the 7th, which they ſay is the Houſe of War. But this Application between ♂ and ♃ ſeems alſo to ſhew ſome Propoſi<g ref="char:EOLhyphen"/>tions for Peace, but I think it is for no other end, but to protract time till ſome other deſign is ready.</p>
+               <p>Is it poſſible there ſhould be an ☍ of ♄ and ☿ from II and ♐, and no <hi>Knaviſh Villainies</hi> acted or diſcovered in or about <hi>London</hi> at ſuch a time! if there is any <hi>Roguery</hi> now againſt the <hi>Government,</hi> be ſure there is a Woman up to the Ears in it; but be it what it will, a Woman is at the bottom, and the thing is vil<g ref="char:EOLhyphen"/>lanous. The ☍ of ♌ and ☿, ſhould give the Merchants good news.</p>
+            </div>
+            <div n="May" type="observations">
+               <pb facs="tcp:178854:5"/>
+               <head>Obſervations upon <hi>May.</hi>
+               </head>
+               <sp>
+                  <speaker>Gadbury.</speaker>
+                  <lg>
+                     <l>As the <hi>Sun's Rays</hi> and heat without controul,</l>
+                     <l>Diſſolves the frozen Mountains near the <hi>Pole<g ref="char:punc">▪</g>
+                        </hi>
+                     </l>
+                     <l>So 'tis his Beams refreſheth <hi>Earth</hi> and <hi>Air,</hi>
+                     </l>
+                     <l>Excites to motion. calls out men of War,</l>
+                     <l>In thy good time, O <hi>Lord,</hi> let mankind be,</l>
+                     <l>From <hi>Rage, Oppreſſion, Force,</hi> and <hi>Madneſs</hi> free.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Partridge.</speaker>
+                  <lg>
+                     <l>That Land's unhappy, and will e're be ſo,</l>
+                     <l>That hath a <hi>Prince</hi> can neither ſtand nor <hi>go.</hi>
+                     </l>
+                     <l>For he that's led by <hi>Prieſts.</hi> by <hi>Prieſts</hi> is <hi>ſway'd.</hi>
+                     </l>
+                     <l>And <hi>Prieſts</hi> by <hi>King</hi> and <hi>Laws</hi> muſt be obey'd.</l>
+                     <l>'Twas from ſuch Laws (that <hi>King</hi> reſolv'd to ſhine)</l>
+                     <l>
+                        <hi>As Lewis</hi> gives, and not a <hi>Conſtantine.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>Some mighty Action near, of the nature o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ♂; that is, fighting either by Sea or Land, not<g ref="char:EOLunhyphen"/>withſtanding the ☉ is in ☌ with ♃ and ⚹ to ♂ and ♃ in ⚹ to ♂ likewiſe. And I really judge th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Arms of the victorious <hi>King</hi> of <hi>England</hi> is a<g ref="char:EOLhyphen"/>bout this time ſucceſsful againſt the <hi>Christian Turk,</hi> he I mean that ſcorns to be juſt or honeſt the <hi>French Tyrant;</hi> and I judge alſo, there is a probability of the Effuſion of much Blood, as well as a proſpect of Victory.</p>
+               <p>Theſe Rays do alſo ſhew many Men accord<g ref="char:EOLhyphen"/>ing to their Qualities ſhall receive various Fa<g ref="char:EOLhyphen"/>vours and Marks, or <hi>Characters</hi> of <hi>Honour,</hi> ei<g ref="char:EOLhyphen"/>ther as Rewards for Service and Valour, or elſe to qualify them for publick Buſineſs.</p>
+               <p>On <hi>May</hi> 20. &amp; 22, 1685<g ref="char:punc">▪</g> Dr, <hi>Oates</hi> was whipt; being tryed by a <hi>Proteſtant Jury,</hi> and <hi>Proteſtant Judges,</hi> ſuch as they were; and found guilty on <hi>Popiſh Evidence;</hi> he had 2256 Laſhes with a Whip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of ſix Thongs knotted, which amounts to 13536 <hi>Strips:</hi> his Judges were <hi>Jefferies, Withins, Walcot</hi> and <hi>Holloway.</hi>
+               </p>
+               <p>There is now an ☍ of ♄ and the ☉, this makes a great Man frown, <hi>&amp;c.</hi> There is work for the Meſſengers abroad if they will but look out ſharp, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="June" type="observations">
+               <pb facs="tcp:178854:5"/>
+               <head>Obſervations upon <hi>June.</hi>
+               </head>
+               <sp>
+                  <speaker>Gadbury.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Saturn</hi> and <hi>Jove</hi> confront each other's Reſt,</l>
+                     <l>One Natur's <hi>States man,</hi> t'other her <hi>High-Prieſt.</hi>
+                     </l>
+                     <l>They fall at odds; ay, let them quarrel too,</l>
+                     <l>If Mankind ſuffer'd not for what they do.</l>
+                     <l>They move and ſcatter what they have in ſtore,</l>
+                     <l>And ſnatch thoſe Joys away, they gave before.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Partridge.</speaker>
+                  <lg>
+                     <l>By whoſe Examples muſt our after <hi>Kings.</hi>
+                     </l>
+                     <l>Shun all thoſe Cauſes whence Rebellion ſprings?</l>
+                     <l>Your <hi>Prince of Wales</hi> I know, while your ſoft Names,</l>
+                     <l>Of <hi>Golden Laws</hi> are joyn'd to <hi>Iron Chains.</hi>
+                     </l>
+                     <l>'Twas <hi>Tyrant-force</hi> made People try their Brains,</l>
+                     <l>To <hi>Abdicate</hi> the <hi>Cauſe,</hi> and break their <hi>Chains</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>The Death of ſome old States-men, Officers or Perſons eminent in diſpenſing the Govern<g ref="char:EOLhyphen"/>ment of Nations, ſeems to prepare and make way for the riſing of others, for Removes and Preferments. <hi>&amp;c.</hi> And where <hi>Armies</hi> are near there is great expectation of Action between them, but I do judge the greateſt and more con<g ref="char:EOLhyphen"/>ſiderable part of ſuch Motion and Action will be deferred till the end of this Month, or be<g ref="char:EOLhyphen"/>ginnig of <hi>July,</hi> but ſtill preparing and great expectation what will be the Event of it.</p>
+               <p>The Affairs of this Month ſeem to concern <hi>Spain</hi> in their <hi>Military</hi> and <hi>Martial</hi> Negotia<g ref="char:EOLhyphen"/>ons; <hi>France</hi> in every thing that relates to her Government and Quiet; <hi>Hungary</hi> and <hi>Dalmatia,</hi> &amp;c. are affected with ſome Diſſentions, either about ſetling their Government, or about ſome Points of Religion. <hi>London</hi> is alſo diſturbed with ſome Diviſions in her particular Government; <hi>uneaſy murmuring Spi<g ref="char:EOLhyphen"/>rits</hi> are ſtill trying their Tricks to deſtroy their own Quiet, and the Peace of all beſides: Poor Men! they want a <hi>Hobby horſe;</hi> but the beſt on't is, they are Men of more <hi>Hope than Courage,</hi> &amp;c. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>London</hi> healthy? <hi>viz credo.</hi> Some eminent Wedding ends the Mon<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or near it.</p>
+            </div>
+            <div n="July" type="observations">
+               <pb facs="tcp:178854:6"/>
+               <head>Obſervations upon <hi>July.</hi>
+               </head>
+               <sp>
+                  <speaker>Gadbury.</speaker>
+                  <lg>
+                     <l>Let all the <hi>Plagues</hi> of <hi>Murther</hi> now be flung</l>
+                     <l>On that <hi>curs'd Babe</hi> from whence thoſe <hi>Miſchiefs</hi> ſprung</l>
+                     <l>There's <hi>ruffling work</hi> above; and hence muſt flow,</l>
+                     <l>Mutations here; ſome <hi>Tyrants</hi> overthrow:</l>
+                     <l>Tho at this diſtance, yet methinks I hear</l>
+                     <l>Moſt <hi>pleaſant News,</hi> ſome <hi>Abdication</hi> near.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Partridge.</speaker>
+                  <lg>
+                     <l>None need doubt <hi>Eaſe</hi> and <hi>Quiet,</hi> ſince we have</l>
+                     <l>Heaven's Gift and Bleſſing in a Prince ſo brave.</l>
+                     <l>Born to reſtore our Laws, that <hi>gaſping lay,</hi>
+                     </l>
+                     <l>That <hi>Papiſts</hi> and <hi>worſe Men</hi> had torn away:</l>
+                     <l>
+                        <hi>This</hi> is the <hi>Man,</hi> nor your <hi>Welſh Prince,</hi> ſhall be</l>
+                     <l>The true <hi>Reſtorer</hi> of our <hi>Liberty.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>Although the ☍ of ♄, and ♃ have a large ſhare in the Actions and Affairs of this <hi>Summer<g ref="char:punc">▪</g>
+                  </hi> as the other Rays and Lunations have; yet it is to be conſidered differently from them, they be<g ref="char:EOLhyphen"/>ing both of a ſlower Motion and greater Bodies than the reſt; and always with their preſent In flux ſtamp a new face on the publick Affairs of the World, and at this time of <hi>Europe</hi> in parti<g ref="char:EOLhyphen"/>cular, as a few Months hence will inform us<g ref="char:punc">▪</g> for there are <hi>three Oppoſitions</hi> as well as there were <hi>three Conjunctions.</hi>
+               </p>
+               <p>But at preſent all things tend to <hi>Violence</hi> and <hi>Blood,</hi> the real Effects of War and Confuſion<g ref="char:punc">▪</g> 
+                  <hi>Pax quaeritur bello,</hi> after a Storm comes a Calm<g ref="char:punc">▪</g> The <g ref="char:quadrine">□</g> of ♄ and ♂<g ref="char:punc">▪</g> and ♃ and ♂ from Humane Signs, ſhews great Effuſion of Blood by fighting; <hi>quando cum hoſte manus co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ererint;</hi> they alſo give <hi>Thieves</hi> inteſting the High-ways with <hi>Murder</hi> rather than the loſs of their prey; ſome Miſchiefs done by the <hi>Tories</hi> in <hi>Ireland,</hi> and <hi>I</hi> think they are divers of them reward<g ref="char:EOLhyphen"/>ed with a Halter, their due deſert.</p>
+               <p>This Month is attended throughout with much News and Intel<g ref="char:EOLhyphen"/>ligence, Some removes among the Clergy, <hi>&amp;c.</hi> and a merry Couple much talked of.</p>
+            </div>
+            <div n="August" type="observations">
+               <pb facs="tcp:178854:6"/>
+               <head>Obſervations upon <hi>Auguſt.</hi>
+               </head>
+               <sp>
+                  <speaker>Gadbury.</speaker>
+                  <lg>
+                     <l>Is <hi>London</hi> free from <hi>Traitors?</hi> is that <hi>Crew</hi>
+                     </l>
+                     <l>Still ſeeking <hi>that,</hi> ſome Years hath been their <hi>due?</hi>
+                     </l>
+                     <l>
+                        <hi>Alas good Men!</hi> the <hi>Paſsive Cant</hi>'s laid by,</l>
+                     <l>And now <hi>Reſiſtance</hi> is no <hi>Blaſphemy<g ref="char:punc">▪</g>
+                        </hi>
+                     </l>
+                     <l>Well! they are Men of Noiſe, and ſo it proves:</l>
+                     <l>Pray ask abroad how the grand <hi>Tyrant moves?</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Partridge.</speaker>
+                  <lg>
+                     <l>Here <hi>Iohn</hi> tells truth; in this <hi>ſweet Prince</hi> (ſaid he)</l>
+                     <l>Our <hi>Hopes</hi> are laid of all <hi>Felicity<g ref="char:punc">▪</g>
+                        </hi>
+                     </l>
+                     <l>Each pays his <hi>Tribute; John</hi> alone, you ſee,</l>
+                     <l>Abounds in his <hi>Old Talent, Flattery;</hi>
+                     </l>
+                     <l>This is his <hi>Off<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ring,</hi> proper to his <hi>Sphere:</hi>
+                     </l>
+                     <l>A precious <hi>Tool</hi> to breath a <hi>Holy Prayer.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>At the Lunation that begins this Month we find no Planet angular; and therefore do I judge no conſiderable thing that is really new can be expected at this time: and notwithſtanding there are ſo many Aſpects in the Month, yet it will follow the Fate and Effect of the <hi>Revoluti<g ref="char:EOLhyphen"/>onal Ingreſs</hi> next preceding, and the ☍ of ♄ and ♃. The <g ref="char:quadrine">□</g> of ♄ and ☿ from ♍ and ♐, gives a<g ref="char:EOLhyphen"/>bundance of lying falſe News and Rumors, ſome about Sea-Affairs, Merchants, Merchandizing<g ref="char:punc">▪</g> and the like; and I dare be poſitive almoſt that there will be ſome notorious piece of Cheatery acted and brought about under the <hi>Notion</hi> and <hi>Mask</hi> of <hi>Religion.</hi>
+               </p>
+               <p>The <g ref="char:quadrine">□</g> of the ☉ and ♄ creates abundance of Difference in <hi>London.</hi> Heats in their <hi>Councils,</hi> and it ſhould be about ſomething that relates to its Government, but it will be for the City's Advan<g ref="char:EOLhyphen"/>tage in the Concluſion, and I think for the Eſtabliſhment of its future Peace. But I fear <hi>London</hi> and alſo ſome parts of the Nation be<g ref="char:EOLhyphen"/>ſides, will find it to be a ſickly Autumn, ſome new <hi>Fevers, Colliks</hi> &amp;c</p>
+               <p>Toward the latter part of the Month we may expect to hear of ſome Action from <hi>beyond Sea,</hi> of a <hi>Battel, Skirmiſh,</hi> or<g ref="char:punc">▪</g> ſuch like<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Enterprize.</p>
+            </div>
+            <div n="September" type="observations">
+               <pb facs="tcp:178854:7"/>
+               <head>Obſervations upon <hi>September.</hi>
+               </head>
+               <sp>
+                  <speaker>Gadbury.</speaker>
+                  <lg>
+                     <l>Hath <hi>Europe</hi>'s Foes laid by their <hi>murdering Laws,</hi>
+                     </l>
+                     <l>And the <hi>grand Murtherer</hi> diſown'd his Cauſe?</l>
+                     <l>Do <hi>Popiſh Projects</hi> with their <hi>Plots</hi> decreaſe</l>
+                     <l>And <hi>Noah's Dove</hi> bring in the Branch of Peace?</l>
+                     <l>Pray then inquire; ask if it can be;</l>
+                     <l>If <hi>England's Monarch</hi> ſays it, <hi>I</hi> agree.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Partridge.</speaker>
+                  <lg>
+                     <l>And let <hi>September</hi> never be forgot,</l>
+                     <l>Nor <hi>Modena<g ref="char:punc">▪</g>
+                        </hi> nor yet the <hi>bawdy Plot;</hi>
+                     </l>
+                     <l>Nor yet <hi>Dada,</hi> who, as the Story tells,</l>
+                     <l>Lent her his hand, and with that <hi>Aaron's Bells.</hi>
+                     </l>
+                     <l>When <hi>Babes</hi> by <hi>Miraclet</hi> are got, as ſaid,</l>
+                     <l>Farewel the ancient way of <hi>Sheets</hi> and <hi>Bed.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>The <g ref="char:quadrine">□</g> of the ☉ and ♄ and the ☉ and ♃ w<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in ſome meaſure influence <hi>September</hi> alſo, ar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yet I do not think it will give any conſiderab<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Action abroad either, as to the Wars, by S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or Land, or to the ſtate of Affairs and Cou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cils of <hi>Europe,</hi> and yet it ſeems to ſhew Diff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rence and Quarrels, but they will be in and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mong <hi>private Companies</hi> and <hi>Societies</hi> whic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may prove the Cauſe of <hi>Duels, Murders,</hi> &amp;c.The <g ref="char:quadrine">□</g> of ♄ and ♁ as they are qualified at th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laſt <hi>New Moon,</hi> ſhews the Death of ſome emi<g ref="char:EOLhyphen"/>nent <hi>Lady,</hi> and the Misfortunes and Trouble of others. If ♂ be in the ſeventh, as I do believ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he is, in ☌ to ☿, and both Peregrine, he ſhew much <hi>Robbing</hi> and <hi>Miſchiefs</hi> toward the end of the Month; an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> alſo the diſcovery of People that abuſe the Coin of the Nation e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ther by <hi>clipping, coining, waſhing,</hi> &amp;c. Some cunning <hi>knaviſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Lawyer or Clerk</hi> catch'd in doing what he ought not to have done<g ref="char:punc">▪</g>
+               </p>
+               <p>A brave bold Fellow, one of the Sons of ♂, receiveth Prefer<g ref="char:EOLhyphen"/>ment as a Gratuity for his Bravery. <hi>Mercury</hi> having been twice <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <g ref="char:trine">△</g> to ♃ this Month, will give good News to the City of <hi>London</hi> and I think it comes from ſome of our Weſtern Plantations. <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="October" type="observations">
+               <pb facs="tcp:178854:7"/>
+               <head>Obſervations upon <hi>October.</hi>
+               </head>
+               <sp>
+                  <speaker>Gadbury.</speaker>
+                  <lg>
+                     <l>There's mighty News abroad, 'tis come from far.</l>
+                     <l>About ſome <hi>King</hi>'s Affairs of <hi>Peace</hi> or <hi>War:</hi>
+                     </l>
+                     <l>
+                        <hi>Jove</hi>'s in the Twins: Methinks <hi>I</hi> hear the Voice</l>
+                     <l>Of the curs'd <hi>murmuring Crew;</hi> the reſt rejoyce,</l>
+                     <l>
+                        <hi>God ſave the King,</hi> and he that wont ſay ſo,</l>
+                     <l>
+                        <hi>Burton</hi> and <hi>Graham</hi>'s Bleſſing with him go.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Partridge.</speaker>
+                  <lg>
+                     <l>
+                        <hi>October</hi> did this Land a <hi>King</hi> afford,</l>
+                     <l>A <hi>Prince (John</hi> ſays) that never broke his Word;</l>
+                     <l>Whoſe <hi>Courage, Wit</hi> and <hi>Conduct</hi> hath done more,</l>
+                     <l>Than all our great <hi>Reformers</hi> could before.</l>
+                     <l>His <hi>Reign</hi> was <hi>ſhort;</hi> to <hi>Prieſts</hi> he owes his Fall;</l>
+                     <l>For <hi>Prieſts</hi> and <hi>Church</hi> he loſt his <hi>Crown</hi> and <hi>All.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>At the Ingreſs of the ☉ into ♎ we find a very peaceable Poſition; the <hi>Moon</hi> who is in ☍ to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he place of the laſt ☌ in 1682. is in <g ref="char:trine">△</g> to ♃, ♂ <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ☿; Why ſhould there not be Propoſitions made for Peace about this time, and that with <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ucceſs too? it ſeems very probable, and the Heavens themſelves favour it: <hi>God grant</hi> it may ſucceed, if it is for the advantage of the true <hi>Proteſtant Religion.</hi> and the beating down of <hi>Tyranny, Popery,</hi> and all <hi>Arbitrary Power.</hi> And indeed the <g ref="char:trine">△</g> of the ☉ and ♃ doth mightily perſwade me that there will be ſomething done <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the purpoſe in it in order to its Concluſion. And if it is now effected, the <hi>Illuſtrious</hi> and <hi>Va<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ant King</hi> of <hi>England</hi> will be the only Man to do it.</p>
+               <p>And beſides if we conſider that ☿, the Coeleſtial Foot-poſt, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath been three times in <g ref="char:trine">△</g> to ♃ within a few weeks, and at the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngreſs in <g ref="char:trine">△</g> to the <hi>Moon</hi> in the fifth, the Houſe of <hi>Embaſſies</hi> and <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſſengers,</hi> and Lord of the tenth, the Houſe of Honour and <hi>Gran<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur,</hi> it is the more probable.</p>
+               <p>The Month is generally ſpent in things of a private nature and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uality, ſuch as are the Affairs of <hi>States, Kingdoms, Nations,</hi> and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ountries.</p>
+            </div>
+            <div n="November" type="observations">
+               <pb facs="tcp:178854:8"/>
+               <head>Obſervations upon <hi>November<g ref="char:punc">▪</g>
+                  </hi>
+               </head>
+               <sp>
+                  <speaker>Gadbury.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Sol Mars</hi> and <hi>Saturn</hi> in a fiery Sign,</l>
+                     <l>(What e're their project is) do there combine.</l>
+                     <l>Something they'll do<g ref="char:punc">▪</g> perhaps you'll wonder what,</l>
+                     <l>Why then I'll tell you <hi>'tis ſome knaviſh Plot.</hi>
+                     </l>
+                     <l>And ſomething elſe too, will by them be done,</l>
+                     <l>They're all in <hi>Quartile</hi> to the <hi>French King's Sun.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Partridge.</speaker>
+                  <lg>
+                     <l>
+                        <hi>November,</hi> hang't, that plaguy <hi>Powder plot,</hi>
+                     </l>
+                     <l>Which <hi>John</hi> ſo often wilfully forgot.</l>
+                     <l>In <hi>Eighty Eight</hi> too, how this good Man fails?</l>
+                     <l>He thought of nothing then but <hi>Prince of Wales<g ref="char:punc">▪</g>
+                        </hi>
+                     </l>
+                     <l>The <hi>Babe</hi> being born, a Name you know's his due,</l>
+                     <l>A Name he had, <hi>A</hi> plaguy long one too.</l>
+                  </lg>
+               </sp>
+               <p>The former part of this Month will give litt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or no Alterations in the publick Affairs and B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſineſs of <hi>Nations</hi> and <hi>Kingdoms</hi> till toward t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> end, and then there ſeems to be Projects a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Projections to the purpoſe, and theſe attend<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> too with ſomething of Violence; for the Ra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Aſpects are generally not only from viole<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> parts of Heaven, but from humane Signs al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <p>About the midle of the Month the ☉ com<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the ☌ of ♂, near that eminent fixed Star c<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>led the <hi>Scorpions Heart,</hi> which will ſpend its I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fluence two ways. 1, In the <hi>Elemental Worl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 2. In the <hi>Intellectual.</hi> 1. It will give ſtran<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and untoward <hi>Weather, Corruſcations</hi> in t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Air, and I judge <hi>Thundur</hi> in divers parts as well of this Nation of others. 2, It gives <hi>villanous</hi> and <hi>treacherous</hi> Deſigns and <hi>C<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſpiracies</hi> againſt the <hi>Powers</hi> and Government of <hi>England</hi> in pa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cular. Here is ſome curſed piece of <hi>Roguery</hi> at the door, but I ju<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it will be diſcovered; and the beſt way to prevent any more <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is to hang all you catch, by what Name or Title ſoever digni<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or diſtinguiſhed. But this Month will but give a beginning to th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Affairs; and therefore you muſt expect its farther Managem<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in the next</p>
+            </div>
+            <div n="December" type="observations">
+               <pb facs="tcp:178854:8"/>
+               <head>Obſervations upon <hi>December.</hi>
+               </head>
+               <sp>
+                  <speaker>Gadbury.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Motion</hi> and <hi>Time,</hi> thoſe <hi>Twins,</hi> older than <hi>Man;</hi>
+                     </l>
+                     <l>When the <hi>dark Chaos</hi> alter'd, they began.</l>
+                     <l>They lurk'd throughout the whole; but to appear,</l>
+                     <l>
+                        <hi>God ſpake</hi> them into <hi>being,</hi> and they were.</l>
+                     <l>Theſe are the two that work, tho diff'rent ways;</l>
+                     <l>And as they do <hi>begin, conclude</hi> our <hi>Days,</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Partridge.</speaker>
+                  <lg>
+                     <l>Now <hi>Muſe</hi> forbear, the Year draws to an end,</l>
+                     <l>And bid Friend <hi>John</hi> his next Year's Manners mend:</l>
+                     <l>He who by <hi>Hocus Pocus, Preiſts</hi> and <hi>Tricks,</hi>
+                     </l>
+                     <l>Foretold a <hi>Prince of Wales</hi> in <hi>Eighty ſix:</hi>
+                     </l>
+                     <l>A likely ſtory! for he could not ſay</l>
+                     <l>When all <hi>his Makers</hi> were to <hi>run away.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <p>Strange Weather ended the laſt and alſo be<g ref="char:EOLhyphen"/>gins this, and 'tis ſuch as is not uſual. 'Tis ten <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o one but there may be a fine ſtroke of buſineſs <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the <hi>Old-Baily this Seſſions.</hi>
+               </p>
+               <p>The laſt Lunation is perhaps as remarkable one as will happen again in many Years; for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere we find it falls upon an ☍ of ♄ and ♃, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ♂, the ☉ and <hi>Moon</hi> all in ☌ in ♐ and ♃ near <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Stars of <hi>Orion</hi> in ☍ to them all, he above <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Earth in the tenth in Reception with ☿, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey all under the Earth peregrine: in a word, ſhews Violence and violent Deaths: Let the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebellious Party take it among 'em.</p>
+               <lg>
+                  <l>
+                     <hi>If a Man ſhould but ask you; how gravely you'd tell one</hi>
+                  </l>
+                  <l>
+                     <hi>Of</hi> Paſſive Obedience, <hi>yet</hi> catch'd <hi>in Rebellion:</hi>
+                  </l>
+                  <l>
+                     <hi>If</hi> Rebellion'<hi>s a Sin, ye are</hi> dipp'<hi>d and a</hi> ſinking.</l>
+                  <l>
+                     <hi>You</hi> Squires <hi>o'th'</hi> Halter, <hi>that hang Men for thinking,</hi>
+                  </l>
+                  <l>
+                     <hi>If</hi> St Paul <hi>had been here, and by you had been try'd,</hi>
+                  </l>
+                  <l>(No benefite of Clergy) <hi>he'd certainly dy'd,</hi>
+                  </l>
+               </lg>
+            </div>
+            <closer>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od ſave King <hi>William</hi> and Queen <hi>Mary,</hi> and confound their Enemies.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:178854:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
